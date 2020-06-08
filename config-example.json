@@ -1,0 +1,16 @@
+{
+    "client": {
+        "user": "some_dude",
+        "password": "w3@kP@$$"
+    },
+    "server": {
+        "ip": "127.0.0.1",
+        "port": 2121,
+        "homedir": "."
+    },
+    "mail": {
+        "toggle": 0,
+        "email": " ",
+        "password": " "
+    }
+}

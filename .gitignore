@@ -1,2 +1,5 @@
 .vscode/
 config.json
+test_directory
+ftp_client.py
+testfile.txt
